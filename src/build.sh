@@ -8,6 +8,8 @@
 
 #echo $PATH
 
+make
+
 exe="codesim"
 
 target_path="/usr/bin"
